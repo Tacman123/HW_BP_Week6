@@ -92,4 +92,4 @@ DerivedDataCache/*
 Content/StarterContent/*
 
 #Third Person
-Content/ThirdPerson/*
+Content/_ExternalActors_/ThirdPerson/*
